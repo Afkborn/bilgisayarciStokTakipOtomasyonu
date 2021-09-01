@@ -1,0 +1,39 @@
+Tarih: 2021-01-23 00:08:28
+Ad Soyad: Furkan Erkoca
+E-posta: eposta@gmail.com
+Telefon Numarasi: 5121231212
+------------------------------
+Urun adi: CPU
+Satis Adedi: 4
+Urun icin tane fiyat: 998TL
+Urun icin toplam fiyat: 3992TL
+Urun icin KDV orani: %18
+KDV bedeli: 702TL
+Agirlik: 650g
+------------------------------
+Urun adi: GPU
+Satis Adedi: 8
+Urun icin tane fiyat: 2479TL
+Urun icin toplam fiyat: 19832TL
+Urun icin KDV orani: %18
+KDV bedeli: 3564TL
+Agirlik: 2500g
+------------------------------
+Urun adi: TermalMacun
+Satis Adedi: 1
+Urun icin tane fiyat: 15TL
+Urun icin toplam fiyat: 15TL
+Urun icin KDV orani: %18
+KDV bedeli: 0TL
+Agirlik: 80g
+------------------------------
+Urun adi: SSD
+Satis Adedi: 10
+Urun icin tane fiyat: 527TL
+Urun icin toplam fiyat: 5270TL
+Urun icin KDV orani: %18
+KDV bedeli: 936TL
+Agirlik: 200g
+------------------------------
+KDV haric fiyat: 29109TL
+KDV dahil fiyat: 34311TL

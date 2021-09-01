@@ -1,0 +1,62 @@
+Tarih: 2021-01-21 03:53:27
+E-posta: kalaybilgehan60@gmail.com
+Telefon Numarasi: 5061529740
+------------------------------
+Urun adi: Case
+Satis Adedi: 1
+Urun icin tane fiyat: 500TL
+Urun icin toplam fiyat: 500TL
+Urun icin KDV orani: %18
+KDV bedeli: 90TL
+Agirlik: 4800g
+------------------------------
+Urun adi: SSD
+Satis Adedi: 1
+Urun icin tane fiyat: 527TL
+Urun icin toplam fiyat: 527TL
+Urun icin KDV orani: %18
+KDV bedeli: 90TL
+Agirlik: 200g
+------------------------------
+Urun adi: CPUCooler
+Satis Adedi: 1
+Urun icin tane fiyat: 410TL
+Urun icin toplam fiyat: 410TL
+Urun icin KDV orani: %18
+KDV bedeli: 72TL
+Agirlik: 350g
+------------------------------
+Urun adi: Headset
+Satis Adedi: 1
+Urun icin tane fiyat: 600TL
+Urun icin toplam fiyat: 600TL
+Urun icin KDV orani: %18
+KDV bedeli: 108TL
+Agirlik: 200g
+------------------------------
+Urun adi: TermalMacun
+Satis Adedi: 4
+Urun icin tane fiyat: 15TL
+Urun icin toplam fiyat: 60TL
+Urun icin KDV orani: %18
+KDV bedeli: 0TL
+Agirlik: 80g
+------------------------------
+Urun adi: CPU
+Satis Adedi: 9
+Urun icin tane fiyat: 998TL
+Urun icin toplam fiyat: 8982TL
+Urun icin KDV orani: %18
+KDV bedeli: 1602TL
+Agirlik: 650g
+------------------------------
+Urun adi: GPU
+Satis Adedi: 7
+Urun icin tane fiyat: 2479TL
+Urun icin toplam fiyat: 17353TL
+Urun icin KDV orani: %18
+KDV bedeli: 3114TL
+Agirlik: 2500g
+------------------------------
+KDV haric fiyat: 28432TL
+KDV dahil fiyat: 33508TL

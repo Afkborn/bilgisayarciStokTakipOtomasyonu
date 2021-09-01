@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1611155108 source:c:\users\bilgehan\desktop\bilgehan\programlama\c++\bilgisayarci-stok-takip-otomasyon\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<time.h>
+	<stdio.h>
+
+1611347952 source:c:\users\bilgehan\desktop\bilgehan\programlama\c ve c++ hosuma giden projeler\bilgisayarci-stok-takip-otomasyon\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<time.h>
+	<dirent.h>
+

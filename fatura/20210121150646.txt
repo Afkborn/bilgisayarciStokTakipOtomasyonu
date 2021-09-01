@@ -1,0 +1,15 @@
+Tarih: 2021-01-21 15:06:46
+Ad Soyad: Bilgehan Kalay
+E-posta: kalaybilgehan60@gmail.com
+Telefon Numarasi: 5061529740
+------------------------------
+Urun adi: SSD
+Urun Fiyati: 527
+Satis Adedi: 6
+KDV haric fiyat: 3162
+KDV orani: 18
+KDV dahil fiyat: 3720
+Agirlik: 200g
+------------------------------
+Toplam KDV haric fiyati: 3162g
+Toplam KDV dahil fiyati: 3720g

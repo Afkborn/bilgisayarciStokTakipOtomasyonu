@@ -1,0 +1,13 @@
+Tarih: 2021-01-21 11:48:07
+Ad Soyad: Bilgehan Kalay
+E-posta: kalaybilgehan60@gmail.com
+Telefon Numarasi: 5061529740
+------------------------------
+Urun adi: Case
+Urun Fiyati: 500
+Satis Adedi: 2
+KDV haric fiyat: 1000
+KDV orani: 18
+KDV dahil fiyat: 1180
+Agirlik: 4800g
+------------------------------

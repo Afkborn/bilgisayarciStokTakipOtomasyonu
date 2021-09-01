@@ -1,0 +1,15 @@
+Tarih: 2021-01-22 23:50:40
+Ad Soyad: Furkan Erkoca
+E-posta: eposta@gmail.com
+Telefon Numarasi: 5121234567
+------------------------------
+Urun adi: Yazici
+Urun Fiyati: 850
+Satis Adedi: 5
+KDV haric fiyat: 4250
+KDV orani: 18
+KDV dahil fiyat: 5006
+Agirlik: 2450g
+------------------------------
+Toplam KDV haric fiyati: 4250TL.
+Toplam KDV dahil fiyati: 5006TL.
